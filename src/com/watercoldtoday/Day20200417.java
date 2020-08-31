@@ -29,6 +29,7 @@ public class Day20200417 {
     //贪心算法
     public static boolean canJump(int[] nums) {
         int len = nums.length;
+
         //最大可达位置
         int rightmost = 0;
         for (int i = 0; i < len; i++) {

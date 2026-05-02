@@ -1,4 +1,4 @@
-package com.watercoldtoday;
+package com.watercoldtoday.daily_question;
 
 import java.math.BigDecimal;
 import java.util.Arrays;

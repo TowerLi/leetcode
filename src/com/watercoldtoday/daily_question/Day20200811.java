@@ -1,4 +1,4 @@
-package com.watercoldtoday;
+package com.watercoldtoday.daily_question;
 
 import java.util.Arrays;
 

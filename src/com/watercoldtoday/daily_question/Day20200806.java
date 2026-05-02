@@ -1,10 +1,8 @@
-package com.watercoldtoday;
+package com.watercoldtoday.daily_question;
 
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
-import java.util.concurrent.BlockingQueue;
-import java.util.concurrent.SynchronousQueue;
 
 public class Day20200806 {
     String x = "";

@@ -1,7 +1,4 @@
-package com.watercoldtoday;
-
-import java.util.HashMap;
-import java.util.Map;
+package com.watercoldtoday.daily_question;
 
 /**
  * 2020-04-17 LeetCode 每日一题

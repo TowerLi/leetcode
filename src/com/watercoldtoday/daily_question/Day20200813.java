@@ -1,4 +1,4 @@
-package com.watercoldtoday;
+package com.watercoldtoday.daily_question;
 
 public class Day20200813 {
     /**
